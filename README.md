@@ -1,2 +1,2 @@
-# Logic_Programs
+# Logic
 Logical thinking programs

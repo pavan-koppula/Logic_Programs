@@ -4,7 +4,7 @@ class Avg_10 {
     public static void main(String[] args) {
         int ar[]=new int[10];   //Array declaration
         int sum=0;
-        for(int i=0;i<10;i++){  //1,2,3,4,5,6,78,9,10
+        for(int i=0;i<ar.length;i++){  //1,2,3,4,5,6,78,9,10
             ar[i]=i+1;          //ar[0,1,2,3,4,5,...9]=1,2,3,4,5,6,7,8,9,10
             sum=sum+ar[i];
         }
